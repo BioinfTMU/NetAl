@@ -1,6 +1,4 @@
-=============================NETAL===============================
-
-This software takes two networks as input and returns a global alignment of them.
+The program gives two network as inputs and returns a global alignment.
 
 If you want to compile the code, simply run the following command:
 
