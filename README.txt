@@ -80,4 +80,4 @@ The program outputs two files "net1-net2.algn" and "net1-net2.eval". The first o
 
 ==================================================================
 
-If you have any questions or if you have found any problem in the software, please email bneyshabur@ttic.edu. For the latest updates, please visit http://ttic.uchicago.edu/~bneyshabur or if you want to use the NETAL server, visit http://www.bioinf.cs.ipm.ir/software/netal
+If you have any questions or if you have found any problem in the software, please email bneyshabur@ttic.edu. For the latest updates, please visit http://ttic.uchicago.edu/~bneyshabur or if you want to use the NETAL server, visit http://bioinf.modares.ac.ir/software/netal/
